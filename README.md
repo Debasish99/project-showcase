@@ -6,4 +6,5 @@ Find me on frontend mentor : https://www.frontendmentor.io/profile/Debasish99
 
 
 QR CODE -Card - https://debasish99.github.io/Frontend-Mentor-projects/
-NFT -Card - https://nft-card-debasish-8af827.netlify.app/
+
+NFT -Card - https://nft-card-debasish.netlify.app/
