@@ -13,4 +13,6 @@ QR CODE -Card - https://debasish99.github.io/Frontend-Mentor-projects/
 NFT -Card - https://nft-card-debasish.netlify.app/
 
 
+Huddle landing page - https://quiet-fenglisu-ba5e98.netlify.app/
+
 ORDER-Sum - https://order-summary-debasish.netlify.app/
