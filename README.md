@@ -1,6 +1,8 @@
 # Frontend-Mentor-projects
 Here are some challenge projects from https://www.frontendmentor.io/challenges
 
+my site :https://debasish-00.github.io/cv/
+
 my site : https://debasish99.github.io/PROJECT_D/index.html
 
 anita site :https://jazzy-dragon-f640d5.netlify.app/
