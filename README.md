@@ -10,6 +10,8 @@ portfolio- https://debasish-00.github.io/cv/
 
 Dicee game - https://bespoke-sawine-6b0ca4.netlify.app
 
+Drum Kit - https://taupe-klepon-75fd80.netlify.app/
+
 QR CODE -Card - https://debasish99.github.io/Frontend-Mentor-projects/
 
 NFT -Card - https://nft-card-debasish.netlify.app/
