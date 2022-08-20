@@ -8,6 +8,8 @@ I am Debasish. I am from odisha,India .I love to do web development and open to 
 
 portfolio- https://debasish-00.github.io/cv/
 
+Simon Game - simon-game-debasish.netlify.app
+
 Dicee game - https://bespoke-sawine-6b0ca4.netlify.app
 
 Drum Kit - https://taupe-klepon-75fd80.netlify.app/
