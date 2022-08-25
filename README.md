@@ -26,6 +26,8 @@ Practice portfolio -- [Preview Site ](https://jazzy-dragon-f640d5.netlify.app/) 
 
 ## 🎈 Frontend Mentor Challenges
 
+interactive-rating-component --   [Preview Site ](https://grand-horse-eca8b4.netlify.app) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Frontend%20Mentor/interactive-rating-component-main/interactive-rating-component-main)
+
 Huddle landing page --  [Preview Site ](https://quiet-fenglisu-ba5e98.netlify.app/) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Frontend%20Mentor/huddle-landing-page-with-single-introductory-section-master/huddle-landing-page-with-single-introductory-section-master)
 
 ORDER-Sum --  [Preview Site ](https://order-summary-debasish.netlify.app/) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Frontend%20Mentor/order-summary-component-main/order-summary-component-main)
