@@ -37,4 +37,4 @@ NFT -Card -- [Preview Site ](https://nft-card-debasish.netlify.app/) || 🎯 [Vi
 QR CODE -Card --   [Preview Site ](https://debasish99.github.io/Frontend-Mentor-projects/) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Frontend%20Mentor/qr-code-component-main)
 
 
---> Find me on frontend mentor : https://www.frontendmentor.io/profile/Debasish99 [Preview Site ]() || 🎯 [View Code 🔗]()
+--> Find me on frontend mentor :  [Debasish99](https://www.frontendmentor.io/profile/Debasish99) 
