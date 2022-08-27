@@ -11,6 +11,8 @@ Portfolio -- [Preview Site](https://debasish-00.github.io/cv/)
 
 ## ✨Web Development Bootcamp - Udemy Course by Angela Yu 
 
+Newsletter App -- [Preview Site ](https://rocky-woodland-19514.herokuapp.com/signup.html) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Newsletter-Signup)
+
 Simon Game -- [Preview Site ](https://simon-game-debasish.netlify.app/) ||  🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Simon%2BGame%2BChallenge%2BStarting%2BFiles/Simon%20Game%20Challenge%20Starting%20Files)
 
 Dicee game -- [Preview Site ](https://bespoke-sawine-6b0ca4.netlify.app) ||  🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Dicee%20Challenge%20-%20Starting%20Files/Dicee%20Challenge%20-%20Starting%20Files)
