@@ -11,7 +11,7 @@ Portfolio -- [Preview Site](https://debasish-00.github.io/cv/)
 
 ## ✨Web Development Bootcamp - Udemy Course by Angela Yu 
 
-TO-DO List -- [Preview Site ](https://github.com/Debasish99/WebDevBootcamp/blob/master/Projects/todolist-v1/ReadMe.md) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/todolist-v1)
+TO-DO List -- [Preview ](https://github.com/Debasish99/WebDevBootcamp/blob/master/Projects/todolist-v1/ReadMe.md) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/todolist-v1)
 
 Newsletter App -- [Preview Site ](https://rocky-woodland-19514.herokuapp.com/signup.html) || 🎯 [View Code 🔗](https://github.com/Debasish99/WebDevBootcamp/tree/master/Projects/Newsletter-Signup)
 
