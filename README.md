@@ -6,7 +6,7 @@ I am Debasish. I am from India .I love to do web development and open to learnin
 
 ## 💻 Projects
 
-Portfolio -- [Preview Site](https://debasish-00.github.io/cv/)
+Portfolio -- [Preview Site](https://deb-rho.vercel.app/)
 
 
 ## ✨Web Development Bootcamp - Udemy Course by Angela Yu 
