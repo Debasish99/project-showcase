@@ -6,7 +6,22 @@ I am Debasish. I am from India .I love to do web development and open to learnin
 
 ## 💻 Projects
 
-Portfolio -- [Preview Site](https://deb-rho.vercel.app/)
+My Portfolio -- 😊 [Preview Site](https://debasishlenka.in)
+
+Portfolio for Sanjay -- 🌻 [Preview Site](https://sanjayy.netlify.app) 
+
+Windows 98 portfolio using css -- 🔮 [Preview Site](https://debasish99.github.io/windows_dee/) 
+
+Codex -- 🦉 [Preview Site](https://openai-codex-4otd705r5-debasish99.vercel.app/) 
+
+Random quote Generator -- 🦉 [Preview Site](https://random-quote-generator-jade.vercel.app/) 
+
+
+
+## 🪄Complete JavaScript Course 2023 : from zero to expert  - Udemy Course by Jonas Schmedtmann
+
+GuessmMy number game -- [Preview ](https://guessnumber-deb.netlify.app/) || 🎯 [View Code 🔗](https://github.com/Debasish99/Guess-My-Number)
+
 
 
 ## ✨Web Development Bootcamp - Udemy Course by Angela Yu 
